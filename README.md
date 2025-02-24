@@ -34,23 +34,23 @@ sudo dnf install mpv jq curl
 
 # Arch Linux
 sudo pacman -S mpv jq curl
-
+```
 3. Berikan izin eksekusi:
 ```bash
 chmod +x tiktok_player.sh
-
+```
 📖 Cara Penggunaan
 
 Edit file tiktok_player.sh dan ganti URL TikTok Live:
 
 ```bash
 TIKTOK_LIVE_URL="https://www.tiktok.com/@username/live"
-
+```
 Jalankan script:
 
 ```bash
 ./tiktok_player.sh
-
+```
 ⚙️ Konfigurasi
 Opsi Tampilan Video
 Script menyediakan beberapa opsi tampilan yang bisa disesuaikan:
