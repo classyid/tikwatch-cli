@@ -73,8 +73,9 @@ mpv --autofit=30% "$live_url"
 🤝 Kontribusi
 Kontribusi selalu diterima! Silakan buat pull request atau laporkan issue.
 
-📝 Lisensi
-MIT License
+## 📝 Lisensi
+
+Proyek ini dilisensikan di bawah MIT License - lihat file [LICENSE](LICENSE) untuk detail.
 
 ⚠️ Disclaimer
 Tool ini dibuat untuk tujuan pembelajaran dan penggunaan pribadi. Gunakan dengan bijak dan patuhi Terms of Service TikTok.
