@@ -22,13 +22,14 @@ Tool sederhana berbasis command line untuk menonton TikTok Live menggunakan MPV 
 1. Clone repository:
 ```bash
 git clone https://github.com/classyid/tikwatch-cli.git
-
+```
 2. Install dependencies:
 # Debian/Ubuntu
 ```bash
 sudo apt install mpv jq curl
+```
 # Fedora
-```bash
+
 sudo dnf install mpv jq curl
 # Arch Linux
 ```bash
