@@ -26,7 +26,6 @@ git clone https://github.com/classyid/tikwatch-cli.git
 2. Install dependencies:
 ```bash
 # Debian/Ubuntu
-
 sudo apt install mpv jq curl
 
 # Fedora
@@ -34,7 +33,7 @@ sudo dnf install mpv jq curl
 
 # Arch Linux
 sudo pacman -S mpv jq curl
-```
+
 3. Berikan izin eksekusi:
 ```bash
 chmod +x tiktok_player.sh
